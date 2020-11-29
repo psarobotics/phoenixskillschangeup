@@ -1,0 +1,20 @@
+- file: welcome
+- file: volunteers
+  sections:
+    - file: judges
+    - file: psarobotics
+- file: teams
+  sections:
+    - file: dutch_fork
+    - file: foik
+    - file: holytrinity
+    - file: jpii
+    - file: psa
+    - file: riverbluff
+    - file: srrc
+    - file: wando
+    - file: westashley
+- file: agenda
+- file: awards
+- file: recf
+- file: vexrobotics
