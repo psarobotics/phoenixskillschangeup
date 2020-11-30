@@ -1,6 +1,6 @@
 # REC Foundation
 
-[Robotics Education Competition Foundation](https://www.roboticseducation.org/about-us/)
+## [2020-21 Season Event Welcome](https://youtu.be/J9bs0JCXfSs)
 
 ## Mission
 
