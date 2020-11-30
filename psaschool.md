@@ -15,7 +15,7 @@ kernelspec:
 
 # Palmetto Scholars Academy
 
-```{image} ./images/PSA-New-Loco-Design-Final.png
+```{image} ./images/PSA-New-Logo-Design-Final.png
 :alt: psanewlogo
 :align: center
 ```
@@ -32,6 +32,7 @@ PSA requires face coverings for all events and activities that take place indoor
 ## Robotics Mentors
 
 Carol Mullins, Kelli Frye, Marcel McAninch
+
 ## Robotics Instructor/Coach
 
 Donna Heisler
