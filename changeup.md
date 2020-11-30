@@ -4,7 +4,7 @@
 
 ## Robot Skills Challenge
 
-n this challenge, Teams will compete in a Match lasting a maximum of sixty seconds (1:00) in an effort to score as many points as possible. These Matches consist of Driving Skills Matches, which will be entirely driver controlled, and Programming Skills Matches, which will be autonomous with no human interaction. Teams will be ranked based on their combined score in the two types of Matches.
+In this challenge, Teams will compete in a Match lasting a maximum of sixty seconds (1:00) in an effort to score as many points as possible. These Matches consist of Driving Skills Matches, which will be entirely driver controlled, and Programming Skills Matches, which will be autonomous with no human interaction. Teams will be ranked based on their combined score in the two types of Matches.
 
 The playing field will have Field Elements setup exactly the same as a normal VEX Robotics Competition Change Up Match, however, the Balls will start as displayed below.
 

@@ -14,6 +14,6 @@ We see a future where all students design and innovate as part of a team, experi
 
 Our regional staff utilizes our online resources, curriculum, and programs to support robotics and technology events and initiatives aimed to inspire and motivate students to excel in STEM education  In addition to operating and supporting competitions for some of the world’s leading robotics platforms and organizations, including VEX, TSA, and BEST Robotics, the foundation also provides program support and workshops focused on technology and professional development for educators. The REC Foundation is a US-registered 501(c)(3) non-profit educational organization.
 
-## RobotEvents.com
+## [RobotEvents.com](https://robotevents.com)
 
 The REC Foundation operates RobotEvents.com to help support robotics and other STEM activities that aim to inspire and motivate students. RobotEvents.com is a community website that provides event promotion and professional online registration for STEM events. The site helps the two main groups who make all of these programs possible: teams (schools, students, teachers, mentors, parents) and event organizers (local groups and volunteers).
