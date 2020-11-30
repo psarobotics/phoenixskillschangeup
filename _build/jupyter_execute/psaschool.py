@@ -29,6 +29,6 @@
 # 
 # Robert Kinsella
 # 
-# ## Palmetto Scholars Academy Principle
+# ## Palmetto Scholars Academy Principal
 # 
 # Corrigan Rutherford

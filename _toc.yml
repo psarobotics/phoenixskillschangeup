@@ -1,14 +1,14 @@
 - file: welcome
+- file: volunteers
+  sections:
+    - file: judges
+    - file: psaschool
 - file: recf
   sections:
    - file: codeofconduct
 - file: vexrobotics
   sections:
     - file: changeup
-- file: volunteers
-  sections:
-    - file: judges
-    - file: psaschool
 - file: teams
   sections:
     - file: dutch_fork
