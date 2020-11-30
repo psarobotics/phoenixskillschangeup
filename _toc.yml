@@ -1,8 +1,14 @@
 - file: welcome
+- file: recf
+  sections:
+   - file: codeofconduct
+- file: vexrobotics
+  sections:
+    - file: changeup
 - file: volunteers
   sections:
     - file: judges
-    - file: psarobotics
+    - file: psaschool
 - file: teams
   sections:
     - file: dutch_fork
@@ -16,5 +22,3 @@
     - file: westashley
 - file: agenda
 - file: awards
-- file: recf
-- file: vexrobotics
