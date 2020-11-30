@@ -24,10 +24,10 @@
 # :titlesonly:
 # 
 # 
+# recf
+# vexrobotics
 # volunteers
 # teams
 # agenda
 # awards
-# recf
-# vexrobotics
 # ```
