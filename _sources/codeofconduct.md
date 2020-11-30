@@ -1,6 +1,6 @@
 # Code of Conduct
 
-The Robotics Education & Competition Foundation considers the positive, respectful, and ethical conduct of all students, teachers, mentors, parents, and other event attendees an important and essential component of all REC Foundation-sanctioned events.
+The Robotics Education & Competition Foundation considers the positive, respectful, and ethical conduct of all students, teachers, mentors, parents, and other event attendees an important and essential component of all REC Foundation sanctioned events.
 
 We expect the following behavior and ethical standards at all REC Foundationsanctioned events:
 
