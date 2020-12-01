@@ -4,7 +4,7 @@ Vex Robotics Tournaments would not be possible without the hard work of all the 
 
 ## Special Thanks to
 
-Julie Hernandez,  Gina Kleiv,  Kristen Barenborg,  Janet DeBruhl,  Tom Glaab,  Eric Smith,  Romaine Smith
+Fred Durand, Julie Hernandez,  Gina Kleiv,  Kristen Barenborg,  Janet DeBruhl,  Tom Glaab,  Eric Smith,  Romaine Smith
 
 > If you would like to volunteer to help at future events (we have one February 13th, 2021) [click this link](https://www.signupgenius.com/go/8050C45AAAB29AAFE3-thevrc1) to register
 
